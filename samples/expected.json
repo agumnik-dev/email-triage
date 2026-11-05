@@ -1,0 +1,92 @@
+{
+  "01.eml": {
+    "category": "new_claim",
+    "urgency": "normal",
+    "policy_number": "4471-22"
+  },
+  "02.eml": {
+    "category": "new_claim",
+    "urgency": "high",
+    "policy_number": "88213"
+  },
+  "03.eml": {
+    "category": "claim_status",
+    "urgency": "normal",
+    "policy_number": null
+  },
+  "04.eml": {
+    "category": "policy_change",
+    "urgency": "high",
+    "policy_number": "5530-91"
+  },
+  "05.eml": {
+    "category": "billing",
+    "urgency": "normal",
+    "policy_number": null
+  },
+  "06.eml": {
+    "category": "cancellation",
+    "urgency": "normal",
+    "policy_number": "77120"
+  },
+  "07.eml": {
+    "category": "complaint",
+    "urgency": "high",
+    "policy_number": null
+  },
+  "08.eml": {
+    "category": "new_claim",
+    "urgency": "high",
+    "policy_number": null
+  },
+  "09.eml": {
+    "category": "other",
+    "urgency": "normal",
+    "policy_number": null
+  },
+  "10.eml": {
+    "category": "info_request",
+    "urgency": "normal",
+    "policy_number": null
+  },
+  "11.eml": {
+    "category": "policy_change",
+    "urgency": "normal",
+    "policy_number": null
+  },
+  "12.eml": {
+    "category": "info_request",
+    "urgency": "normal",
+    "policy_number": null
+  },
+  "13.eml": {
+    "category": "cancellation",
+    "urgency": "normal",
+    "policy_number": null
+  },
+  "14.eml": {
+    "category": "billing",
+    "urgency": "high",
+    "policy_number": "30418"
+  },
+  "15.eml": {
+    "category": "new_claim",
+    "urgency": "normal",
+    "policy_number": "61207"
+  },
+  "16.eml": {
+    "category": "new_claim",
+    "urgency": "high",
+    "policy_number": "90554"
+  },
+  "17.eml": {
+    "category": "other",
+    "urgency": "normal",
+    "policy_number": "4471-22"
+  },
+  "18.eml": {
+    "category": "policy_change",
+    "urgency": "high",
+    "policy_number": "22810"
+  }
+}
