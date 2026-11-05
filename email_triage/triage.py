@@ -2,10 +2,6 @@ from typing import Literal
 from pydantic import BaseModel, Field
 from email_triage.llm import MODEL
 
-MODEL = "claude-haiku-5-5"  
-
-# OUT = Path(__file__).parent / "triage.csv"
-
 SYSTEM = """You sort incoming customer emails for "Shomer" insurance company.
 Each email goes to a team based on your answer, so a wrong category
 means the customer waits longer.
