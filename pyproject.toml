@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "AI triage of insurance emails into a CSV for the support team"
 readme = "README.md"
 authors = [
-    { name = "argdeal", email = "agumnik.dev@gmail.com" }
+    { name = "agumnik-dev", email = "agumnik.dev@gmail.com" }
 ]
 requires-python = ">=3.12"
 dependencies = [
